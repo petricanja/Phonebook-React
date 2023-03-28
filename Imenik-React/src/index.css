@@ -1,0 +1,12 @@
+body {
+    background: rgb(97,218,251);
+    background: linear-gradient(90deg, rgba(97,218,251,1) 4%, rgba(34,185,226,1) 10%, rgba(204,243,253,1) 20%, rgba(227,248,254,1) 35%, rgba(255,255,255,1) 50%, rgba(227,248,254,1) 65%, rgba(204,243,253,1) 80%, rgba(20,170,209,1) 90%, rgba(97,218,251,1) 100%);
+    height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  
+  }
+  #root{
+    height     : 100vh;
+  }

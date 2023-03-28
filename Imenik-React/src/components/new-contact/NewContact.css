@@ -1,0 +1,33 @@
+#new-contact{
+    margin: auto;
+    text-align: center;
+    height: 100%;
+    width: 500px;
+    display: flex;
+    flex-flow: column;
+    margin-bottom: 30px;
+}
+input {
+    padding: 8px;
+    background: transparent;
+}
+
+input:hover {
+    color: rgb(58, 58, 58);
+}
+input::placeholder {
+    text-align: center;
+}
+
+#add-btn {
+    padding-right: 0px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #35495e;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#add-btn:hover {
+    color: rgb(58, 58, 58);
+}
